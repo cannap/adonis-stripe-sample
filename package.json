@@ -1,0 +1,17 @@
+{
+  "name": "adonis-stripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@adonisjs/fold": "^4.0.4",
+    "stripe": "^5.0.0"
+  }
+}
